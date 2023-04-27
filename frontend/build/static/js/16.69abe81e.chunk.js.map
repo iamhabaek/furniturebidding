@@ -1,0 +1,1 @@
+{"version":3,"sources":["app/views/account/components/ChangePassword.js"],"names":["ChangePassword"],"mappings":"kHAAA,2BAMeA,UAJQ,WACrB,OAAO","file":"static/js/16.69abe81e.chunk.js","sourcesContent":["import React from \"react\";\r\n\r\nconst ChangePassword = () => {\r\n  return <div>ChangePassword</div>;\r\n};\r\n\r\nexport default ChangePassword;\r\n"],"sourceRoot":""}

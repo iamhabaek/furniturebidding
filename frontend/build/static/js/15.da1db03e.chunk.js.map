@@ -1,0 +1,1 @@
+{"version":3,"sources":["app/views/account/components/Addresses.js"],"names":["Addresses"],"mappings":"kHAAA,2BAMeA,UAJG,WAChB,OAAO","file":"static/js/15.da1db03e.chunk.js","sourcesContent":["import React from \"react\";\r\n\r\nconst Addresses = () => {\r\n  return <div>Addresses</div>;\r\n};\r\n\r\nexport default Addresses;\r\n"],"sourceRoot":""}
